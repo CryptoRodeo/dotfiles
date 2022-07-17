@@ -118,3 +118,4 @@ fi
 
 eval "$(starship init bash)"
 eval `ssh-agent`
+alias python='python3'
